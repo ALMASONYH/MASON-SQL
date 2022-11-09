@@ -1,0 +1,2 @@
+[MASON url] >> https://moodle.org/index.php
+[MASON url] >> https://moodle.org/robots.txt
